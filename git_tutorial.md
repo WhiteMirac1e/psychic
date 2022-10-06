@@ -19,3 +19,5 @@ git diff - увидеть разницу между текущим файлом 
 ~~Зачеркнутый текст~~
 
 [wikipedia.org](https://ru.wikipedia.org/wiki/Markdown)
+
+test 
