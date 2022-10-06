@@ -15,3 +15,7 @@ git commit - m "message" - создание коммита
 _git checkout master_ - вернуться к актуальному состоянию и продолжить работу
 
 git diff - увидеть разницу между текущим файлом и закоммиченным файлом
+
+~~Зачеркнутый текст~~
+
+[wikipedia.org](https://ru.wikipedia.org/wiki/Markdown)
